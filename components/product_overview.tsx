@@ -7,7 +7,7 @@ export default function ProductOverview() {
             <div className="mx-auto max-w-md text-center lg:text-left">
               <header>
                 <h2 className="text-xl font-bold text-gray-900 sm:text-3xl">
-                  Watches
+                  Bijoux
                 </h2>
 
                 <p className="mt-4 text-gray-500">
@@ -30,7 +30,7 @@ export default function ProductOverview() {
               <li>
                 <a href="#" className="group block">
                   <img
-                    src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1598&q=80"
+                    src="https://www.mirellapietra.fr/wp-content/uploads/go-x/u/41da0ca5-d28f-4f59-8822-841d9f8574a4/image.jpg"
                     alt=""
                     className="aspect-square w-full rounded object-cover"
                   />
@@ -48,7 +48,7 @@ export default function ProductOverview() {
               <li>
                 <a href="#" className="group block">
                   <img
-                    src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1598&q=80"
+                    src="https://www.mirellapietra.fr/wp-content/uploads/go-x/u/189bece3-6266-40f9-9fef-a1e266976bfc/image.jpg"
                     alt=""
                     className="aspect-square w-full rounded object-cover"
                   />
